@@ -8,7 +8,6 @@ Original file is located at
 """
 
 
-co%%writefile app.py
 """
 EC1 - Modelamiento Predictivo de Datos - Grupo 8
 Caso adaptado: Variabilidad e incumplimiento en la entrega de pedidos
