@@ -25,6 +25,7 @@ from sklearn.metrics import (
 )
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 sns.set_style("whitegrid")
+from sklearn.metrics import silhouette_score
 
 # ============================================================
 # CONFIGURACIÓN GENERAL DE LA PÁGINA
