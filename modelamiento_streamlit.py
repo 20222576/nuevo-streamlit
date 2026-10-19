@@ -741,7 +741,6 @@ with tab3:
         f"con el menor sobrecosto promedio ({sobrecosto_modelo:.2f}%) y, en general, menor porcentaje de "
         "pedidos tardíos. Sus prácticas logísticas pueden tomarse como modelo para los demás clusters."
     )
-    )
 
 
 # ============================================================
